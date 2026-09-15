@@ -108,8 +108,10 @@ Booking Confirmation
 
 
 <img width="776" height="547" alt="Screenshot 2026-07-23 103130" src="https://github.com/user-attachments/assets/9103f5d6-f742-403f-a75e-3cee6283c69f" />
-<img width="781" height="563" alt="Screenshot 2026-07-23 103335" src="https://github.com/user-attachments/assets/253bd070-802f-46ff-a174-fc2ecd8adc4e" />
 
+<img width="776" height="547" alt="Screenshot 2026-07-23 103335" src="https://github.com/user-attachments/assets/253bd070-802f-46ff-a174-fc2ecd8adc4e" />
+
+<img width="776" height="547" alt="Screenshot 2026-07-23 101651" src="https://github.com/user-attachments/assets/319862ca-c0e7-4fc2-a8d1-50a5c98c4015" />
 
 
 ---
